@@ -1,0 +1,80 @@
+#header {
+  width: 1000px;
+}
+
+#logo {
+  width: 120px;
+  background: white;
+  float:left; 
+}
+
+#welcomeBanner {
+  width: 800px;
+  background: white; 
+}
+
+#mainContent {
+  width: 1000px;
+}
+
+#navigationMenu {
+  width: 400px;
+}
+
+#productList {
+  width: 700px;
+}
+
+ul{
+  float:left;
+  background:red;
+  border:2px solid green;
+  margin:2px;
+}
+
+.navigationMenu{
+  width:110px;
+  list-style-type:none;
+  padding:0;
+}
+
+.navigationMenu li{
+  padding:0;
+  margin:5px;
+  width:100px;
+  background:green;
+}
+
+.navigationMenu li:hover{
+  background:gray;
+  color:white; 
+}
+
+.productList{
+  width:70%;
+  list-style-type:none;
+  padding:0;
+}
+.productList li{
+  padding:0;
+  margin:5px;
+  width:500px;
+  background:yellow;
+  float:left;
+  align:center;
+}
+
+.productList li:hover{
+  background:grey;
+}
+span{
+  display:none;
+}
+.productList li:hover span{
+  display:block;
+  vertical-align: text-top;
+}
+
+#footer{
+  background:yellow;
+}
