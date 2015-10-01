@@ -21,14 +21,14 @@
   width: 400px;
 }
 
-#productList {
+# productList {
   width: 700px;
 }
 
 ul{
   float:left;
-  background:red;
-  border:2px solid green;
+  background:white;
+  border:2px solid white;
   margin:2px;
 }
 
@@ -42,7 +42,7 @@ ul{
   padding:0;
   margin:5px;
   width:100px;
-  background:green;
+  background:white;
 }
 
 .navigationMenu li:hover{
@@ -59,7 +59,7 @@ ul{
   padding:0;
   margin:5px;
   width:500px;
-  background:yellow;
+  background:white;
   float:left;
   align:center;
 }
@@ -76,5 +76,5 @@ span{
 }
 
 #footer{
-  background:yellow;
+  background:white;
 }
