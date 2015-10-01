@@ -65,7 +65,7 @@ ul{
 }
 
 .productList li:hover{
-  background:grey;
+  background:gray;
 }
 span{
   display:none;
